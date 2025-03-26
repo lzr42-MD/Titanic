@@ -2,6 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 
+![License](https://img.shields.io/badge/License-MIT-green)
+
 ![Kaggle Score](https://img.shields.io/badge/Kaggle-0.78708-yellow)
 
 一个基于机器学习的泰坦尼克号乘客生存预测项目，使用Python实现数据清洗、特征工程和随机森林建模。
