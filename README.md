@@ -13,7 +13,11 @@
 - 获得Kaggle Top 20%的初步成绩
 
 [👉 **点击查看Kaggle提交结果**](https://www.kaggle.com/competitions/titanic/submissions)  
-[📁 完整代码](https://raw.githubusercontent.com/lzr42-MD/Titanic/refs/heads/master/T.1-3days.py、https://github.com/lzr42-MD/Titanic/blob/master/T.4-6days.py、https://raw.githubusercontent.com/lzr42-MD/Titanic/refs/heads/master/T.7-9days.py)
+
+**核心代码文件**：
+- [🧹 数据清洗](https://raw.githubusercontent.com/lzr42-MD/Titanic/refs/heads/master/T.1-3days.py)
+- [🔧 特征工程](https://github.com/lzr42-MD/Titanic/blob/master/T.4-6days.py)
+- [🤖 模型训练](https://raw.githubusercontent.com/lzr42-MD/Titanic/refs/heads/master/T.7-9days.py)
 
 ---
 
